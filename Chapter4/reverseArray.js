@@ -5,7 +5,7 @@ function reverseArray(array){
     }
     return output
 }
-function reverseInPlace(array){
+function reverseArrayInPlace(array){
     leftPointer= 0
     rightPointer = array.length-1
     while(leftPointer<rightPointer){
@@ -19,5 +19,5 @@ function reverseInPlace(array){
 
 array = [1,2,3]
 console.log(reverseArray([1,2]))
-reverseInPlace(array)
+reverseArrayInPlace(array)
 console.log(array)
