@@ -1,0 +1,6 @@
+function arrayToList(){
+
+}
+function listToArray(){
+    
+}
