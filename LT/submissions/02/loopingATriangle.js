@@ -8,3 +8,4 @@ for (let number = 1; number <= 7; number  = number + 1 ){
     console.log(output)
     // keep track of values here
 }
+
