@@ -9,3 +9,4 @@ greeting("Srikar")
 // firstName is abstract, it is a prarameter 
 // line 2 is the body of the function
 // Long & Srikar are the argument
+

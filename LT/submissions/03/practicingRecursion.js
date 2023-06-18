@@ -14,7 +14,7 @@ function addToZero(x){
     
 }
 
-console.log(addToZero(6))
+console.log(addToZero(7))
 
 //Spent about 30 mins on creating this recursion. 
 //1. Know what your function should do.
